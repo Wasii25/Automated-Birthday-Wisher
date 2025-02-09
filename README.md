@@ -1,7 +1,15 @@
+<ul>
+<li>
 It's a real pain when you forget the birthday (or any special occasion for that matter). <br>
+</li>
+  <li>
 It's another thing to deal with the emotional baggage that comes along. <br>
+  </li>
+  <li>
 Though it doesn't sound good to call this task "mundane" but it can still be automated. <br> <br>
-<h1>About the Project</h1><br>
+  </li>
+</ul>
+<h1>About the Project</h1>
 This project uses the smtplib and pandas as the main libraries.<br>
 <ol>
   
